@@ -161,4 +161,3 @@ cython_debug/
 
 # Ignore settings.json
 settings.json
-*settings.json
